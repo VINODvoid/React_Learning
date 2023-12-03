@@ -1,6 +1,11 @@
+import Kalki from "./kalki"
+
 function App() {
   return (
-   <h1>Hello World ! With React and Vite </h1>
+    <>
+   <Kalki />
+    <p>ParaGraph</p>
+    <h2>This is all Heading 2</h2></>
   )
 }
 
