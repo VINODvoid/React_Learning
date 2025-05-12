@@ -4,7 +4,6 @@ import './App.css'
 
 function App() {
 
-
   const [color, setColor] = useState('#212121')
 
   return (
